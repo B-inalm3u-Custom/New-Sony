@@ -3,5 +3,4 @@
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-ALLOW-CACHE:NO
 #EXT-X-STREAM-INF:BANDWIDTH=5300000,AVERAGE-BANDWIDTH=4200000,RESOLUTION=720x480,FRAME-RATE=30.00,CODECS="avc1.4D400D,mp4a.40.2"
-http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:1e:1b:01&stream=433653&extension=m3u8
-##http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh5xlVcPJhXqB5eR_k_Gk3XvN97HnM5Hylgr-s1dQGneq/ts
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:FF:04:8C&stream=433650&extension=m3u8
