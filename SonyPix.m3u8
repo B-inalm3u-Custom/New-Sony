@@ -6,3 +6,4 @@
 #EXT-X-DISCONTINUITY-SEQUENCE:2
 #EXTINF:1,
 http://tv.cloudcdn.me:80/live.ts?channelId=189&uid=5175&deviceMac=00:1A:79:E5:A9:30
+http://pythonlived.com:2052/play/live.php?mac=00:1a:79:c6:cc:db&stream=430716&extension=ts
