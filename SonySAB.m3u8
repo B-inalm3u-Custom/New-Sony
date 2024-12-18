@@ -5,4 +5,4 @@
 #EXT-X-I-FRAMES-ONLY
 #EXT-X-DISCONTINUITY-SEQUENCE:2
 #EXTINF:1,
-http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:1e:1b:01&stream=181250&extension=ts
+http://tv.cloudcdn.me:80/live.ts?channelId=260&uid=15301&deviceMac=00:1A:79:1D:53:3F
